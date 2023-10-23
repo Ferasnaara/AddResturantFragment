@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddResturantFragment</string>
+    <item name="frameLayout" type="id" />
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710711350696",
+    "project_id": "addresturantfragment",
+    "storage_bucket": "addresturantfragment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710711350696:android:4d5d175a451a9086f9b99d",
+        "android_client_info": {
+          "package_name": "com.example.addresturantfragment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5cEdAGzQsPT-3NeOdZYy9rLDV2YWqoBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
